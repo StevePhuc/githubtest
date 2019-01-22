@@ -10,5 +10,7 @@ This is learn Git, Github, HTML and CSS by building a portfolio.
 * Javasciopt
 
 # Licence
+ ### MIT
 
 # Author
+ ### PhucNguyen
